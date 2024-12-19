@@ -1,0 +1,23 @@
+{
+  "name": "@dhanidwiputra/pagify",
+  "version": "1.0.3",
+  "description": "Simplify your pagination with Pagify",
+  "main": "./dist/pagify.js",
+  "types": "./dist/pagify.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "react",
+    "pagination",
+    "library"
+  ],
+  "author": "dhany dwi putra",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2"
+  }
+}
